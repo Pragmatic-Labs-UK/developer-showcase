@@ -1,3 +1,3 @@
 fn main() {
-    println!("Zero-Trust Protocol Active");
+    println!("Protocol Active");
 }
