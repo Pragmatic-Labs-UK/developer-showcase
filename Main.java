@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Java Enterprise Core Active");
+        System.out.println("Java Core Active");
     }
 }
